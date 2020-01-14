@@ -9,6 +9,14 @@ h1{
     padding: 18px 0 18px 0;
     margin: 0 0 10px 0;
 }
+h2{
+	font-size: 35pt;
+	font-family: 'razer regular';
+    color: #E1760C;
+    text-align: center;
+    padding: 18px 0 18px 0;
+    margin: 0 0 10px 0;
+}
 #goTop{
 	position: fixed;
 	bottom: 20px;
